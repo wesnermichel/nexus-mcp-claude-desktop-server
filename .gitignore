@@ -1,0 +1,7 @@
+# .gitignore for Nexus MCP Bridge
+node_modules/
+dist/
+out/
+*.vsix
+.DS_Store
+*.log
